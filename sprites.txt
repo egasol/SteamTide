@@ -1,0 +1,245 @@
+human
+5 15 79
+humanstrike
+4 12 79
+humancarry
+5 15 79
+humancorpse
+1 36 14
+tree
+5 30 93
+treesmall
+6 12 44
+stump
+1 8 9
+stumpsmall
+1 2 5
+reed
+2 13 38
+hemp
+2 15 27
+flintaxe
+1 9 9
+bow
+1 20 11
+slingshot
+1 13 24
+flintknife
+1 12 9
+spear
+1 19 10
+arrow
+1 16 3
+wood
+5 15 14
+branch
+4 16 9
+rock
+2 26 52
+stone
+5 14 24
+flint
+4 15 7
+branch&flint
+1 9 9
+hempfiber
+1 10 7
+hempstring
+4 18 22
+campfire
+2 15 13
+campfireburning
+2 15 22
+firetool
+1 20 15
+fishingrod
+2 6 25
+fish
+3 14 15
+craft_spear
+2 19 13
+deer
+4 27 50
+deercorpse
+4 29 36
+wolf
+4 28 39
+wolfstrike
+5 34 42
+wolfcorpse
+2 23 23
+spider
+3 30 29
+spiderstrike
+3 34 31
+spidercorpse
+1 30 24
+fox
+2 26 29
+effectblood
+6 17 22
+effectchop
+4 15 13
+effectwater
+8 11 14
+RabbitBone
+1 7 10
+Chicken
+2 16 26
+ChickenCorpse
+1 16 24
+DeerSkinned
+1 28 33
+Rabbit
+2 13 16
+RabbitCorpse
+1 13 16
+LargeTree
+1 36 146
+LargeStump
+1 15 18
+ReedGrowing
+3 18 41
+MediumRock
+2 27 52
+Berries
+5 5 8
+Rope
+2 15 25
+WoodenBucket
+3 8 23
+Needle&Thread
+1 6 21
+TorchCrafted
+3 20 24
+TorchLit
+3 10 34
+StoneHammer
+2 22 27
+Strawbasket
+3 10 15
+StrawbasketBerries
+5 10 18
+WoodenBasket
+2 11 10
+Firetool
+1 20 26
+ReedStraws
+1 15 14
+WheatCut
+1 19 25
+FlintShovel
+3 21 21
+ChickenSkinned
+1 16 24
+RabbitSkinned
+1 13 16
+Boar
+2 27 38
+BoarCorpse
+1 27 37
+BoarSkinned
+1 27 37
+BoarTusk
+1 8 10
+ChickenFeather
+1 5 13
+DeerHide
+1 19 39
+Clay
+1 9 14
+ClayFurnace
+3 12 36
+ClayFurnaceWithBellows
+1 19 44
+ClayBowl
+2 9 12
+ClayBowlStick
+2 20 19
+BellowsCraft
+3 19 39
+ClayFurnaceFire
+3 12 36
+ClayFurnaceFireBellows
+3 19 44
+Berrybush
+6 17 35
+IronHatchet
+1 22 20
+LargeLogs
+3 31 27
+smolspider
+2 8 4
+ChiselCraft
+2 10 14
+Chisel
+1 6 16
+FlatRock
+1 27 12
+Boulder
+5 15 10
+craft_knife
+2 14 13
+BoneSawCraft
+2 23 15
+BoneSaw
+1 6 7
+ClayMoldSaw
+3 9 7
+IronSawCraft
+2 20 16
+IronSaw
+1 20 25
+Planks
+5 32 23
+LargeRock
+2 28 47
+DeerAntlers
+1 19 17
+ClayStickSawMold
+3 23 12
+CutWood
+1 8 5
+Mallet
+1 11 11
+IronOre
+5 15 5
+ClayBowlIron
+2 7 12
+ClayStickIronBowl
+2 23 14
+IronToolHeads
+3 7 6
+ClayStickHatchetMold
+1 19 12
+ClayMoldHatchet
+3 11 7
+ChiseledHatchet
+1 9 6
+ClayMoldPickaxe
+3 8 8
+ClayStickPickMold
+1 17 14
+IronPickaxe
+1 19 11
+IronShovel
+1 21 10
+ClayMoldShovel
+3 11 9
+ClayStickShovelMold
+1 19 14
+WolfHead
+1 12 14
+WolfHide
+1 21 19
+WolfTooth
+1 3 3
+ClayMoldNail
+3 10 7
+ClayStickNailMold
+1 20 12
+WolfSkinned
+1 22 12
+Nail
+5 9 19effectripple
+6 11 2

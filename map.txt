@@ -1,0 +1,35 @@
+0 20 5
+<formation>
+10
+tree
+-4 8 0 120
+branch
+-4 6 120 160
+deer
+-2 1 0 0
+<formation>
+8
+rock
+-4 2 120 60
+stone
+-4 4 40 120
+flint
+0 2 0 20
+Chicken
+-2 1 0 0
+<formation>
+4
+LargeTree
+-4 4 0 120
+Berrybush
+-4 3 120 160
+fox
+-2 1 0 0
+<formation>
+6
+hemp
+-4 6 0 120
+<formation>
+3
+ReedGrowing
+-4 4 0 120
